@@ -1,23 +1,13 @@
-Title
-Multilingual RAG Assistant
+---
+title: Multilingual RAG Assistant
+emoji: 🌐
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 7860
+pinned: false
+---
 
-Emoji
-🌐
+# Multilingual RAG Assistant — Backend
 
-Colorfrom
-blue
-
-Colorto
-green
-
-Sdk
-docker
-
-App_port
-7860
-
-Pinned
-false
-
-Multilingual RAG Assistant — Backend
-FastAPI backend for a multilingual RAG (Retrieval-Augmented Generation) assistant. Upload a PDF and ask questions about it in your own language.
+FastAPI backend for a multilingual RAG assistant.
