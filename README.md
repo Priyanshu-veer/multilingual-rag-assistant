@@ -3,8 +3,8 @@
 A production-style multilingual RAG (Retrieval-Augmented Generation) assistant — upload a PDF and ask questions in English, Hindi, or other languages, and get answers back in the same language.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanshu-veer/multilingual-rag-assistant)
-[![Docker Hub Backend](https://img.shields.io/badge/Docker%20Hub-Backend-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/priyanshuveer/multilingual-rag-backend)
-[![Docker Hub Frontend](https://img.shields.io/badge/Docker%20Hub-Frontend-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/priyanshuveer/multilingual-rag-frontend)
+<!-- [![Docker Hub Backend](https://img.shields.io/badge/Docker%20Hub-Backend-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/priyanshuveer/multilingual-rag-backend)
+[![Docker Hub Frontend](https://img.shields.io/badge/Docker%20Hub-Frontend-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/priyanshuveer/multilingual-rag-frontend) -->
 
 ---
 
