@@ -1,8 +1,8 @@
 # main file
 from fastapi import FastAPI
-from backend.api.chat import router as chat_router
+from api.chat import router as chat_router
 from fastapi.middleware.cors import CORSMiddleware
-from backend.api.upload import router as upload_router
+from api.upload import router as upload_router
 
 
 app = FastAPI(title="Multilingual RAG Assistant")
