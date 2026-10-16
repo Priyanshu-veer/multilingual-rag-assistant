@@ -3,7 +3,7 @@
 A production-style multilingual RAG (Retrieval-Augmented Generation) assistant — upload a PDF and ask questions in English, Hindi, or other languages, and get answers back in the same language.
 
 🔗 **Live Demo:** <https://multilingual-assistant.onrender.com/>
-🎥 **Demo Video:** <https://priyanshu-veer-portfolio.prriyanshu.workers.dev/>
+🎥 **Demo Video:** <https://stunning-bonbon-d51cf6.netlify.app/>
 
 > ⚠️ Hosted on free tier. If the demo is slow or paused, please wait a minute or watch the demo video above.
 
